@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "front": "tailwindcss -i ./origin/husayn.css -o ./create/styles.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
